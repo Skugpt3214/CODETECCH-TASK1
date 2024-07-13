@@ -13,4 +13,4 @@ This program does the following:
 Prompts the user to enter two numbers.
 Provides a menu of operations (addition, subtraction, multiplication, division).
 Performs the selected operation on the numbers entered by the user.
-Displays the result of the operation.
+**Displays the result of the operation.
