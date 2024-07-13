@@ -14,3 +14,4 @@ Prompts the user to enter two numbers.
 Provides a menu of operations (addition, subtraction, multiplication, division).
 Performs the selected operation on the numbers entered by the user.
 **Displays the result of the operation.
+![Screenshot (70)](https://github.com/user-attachments/assets/2e0da1ac-2c9a-4e79-940a-a60187eade61)
